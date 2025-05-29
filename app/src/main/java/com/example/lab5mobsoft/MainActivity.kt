@@ -1,11 +1,7 @@
 package com.example.lab5mobsoft
 
-import android.annotation.SuppressLint
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.example.lab5mobsoft.databinding.ActivityMainBinding
 import android.widget.SeekBar
 import android.content.Intent
